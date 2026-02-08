@@ -1,1 +1,3 @@
-# Gusta da Cucuz Carvalho
+# 👨🏻‍💻 Gustavo da Cruz Carvalho
+
+** 'Desenvolvedor Front-End' **

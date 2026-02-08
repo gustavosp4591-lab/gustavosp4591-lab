@@ -21,38 +21,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# ola, sou Gustavo da Cruz Carvalho
-
-## Entre em Contato Comigo
-<p><a href="https://www.linkedin.com/in/gustavo-da-cruz-carvalho-92279437b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/gustavo_dacruz_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
-
-## Habilidades
-
-<p align="esquerda">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-</p>
-
-## Estatísticas do GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=gustacosp4591-lab&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustacosp4591-lab&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gustacosp4591-lab&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/gustacosp4591-lab/count.svg?" alt="Contagem dos visitantes" />
-
-##Troféus GitHub
-
-<img src="https://github-profile-trophy.vercel.app/?username=gustacosp4591-lab" alt="troféu" />
-
-## Gráfico de Atividades do GitHub
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gustacosp4591-lab&radius=16&theme=rogue&area=true&order=5" height="300" alt="atividade-gráfico" />
-
-

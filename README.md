@@ -11,7 +11,7 @@ Estudante apaixonado por interfaces bem feitas, animações fluidas e design edi
 
 ## 🌐 Contato & Redes
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4400?style=for-the-badge&logo=firefox&logoColor=white)](https://gustavosp4591-lab.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5E3A?style=for-the-badge&logo=firefox&logoColor=white)](https://gustavosp4591-lab.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO)
@@ -26,11 +26,6 @@ Estudante apaixonado por interfaces bem feitas, animações fluidas e design edi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-**Back-End & Dados**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 **Ferramentas**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -43,12 +38,8 @@ Estudante apaixonado por interfaces bem feitas, animações fluidas e design edi
 
 ### 🎨 [Portfólio Pessoal](https://gustavosp4591-lab.github.io)
 
-Site pessoal construído com HTML, CSS, JavaScript e **GSAP**. Design editorial com dark background (#080808) e accent laranja (#FF4400), preloader multilíngue, marquee animado, hero com parallax, lista de projetos com preview flutuante e cursor customizado.  
+Site pessoal construído com HTML, CSS, JavaScript e **GSAP**. Design editorial com paleta dark e accent salmão, preloader multilíngue, marquee animado, hero com parallax, lista de projetos com preview flutuante e cursor customizado.  
 **Score Lighthouse:** 100 Desktop / 93 Mobile
-
-### 💰 Fintech — Java + Oracle
-
-Sistema de gestão financeira desenvolvido para a disciplina de Fintech na FIAP. Construído com **Java 17** e **Oracle Database**, implementando o padrão **DAO** com quatro entidades: `ContaBancaria`, `Receita`, `Despesa` e `Investimento`.
 
 -----
 

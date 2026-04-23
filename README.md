@@ -1,23 +1,72 @@
-# 👨🏻‍💻 Gustavo da Cruz Carvalho
+# 👨‍💻 Gustavo da Cruz Carvalho
 
-**"Desenvolvedor Front-End"**
+**Desenvolvedor Front-End em formação** | Cursando Análise e Desenvolvimento de Sistemas na FIAP 🎓
 
+Estudante apaixonado por interfaces bem feitas, animações fluidas e design editorial. Atualmente focado em construir projetos reais enquanto busco minha primeira oportunidade como **estagiário front-end**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavo_dacruz_/) 
+📍 São Paulo, Brasil  
+🔎 **Aberto a oportunidades de estágio**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gustavosp4591-lab&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gustavosp4591-lab&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosp4591-lab&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-----
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gustavosp4591-lab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Contato & Redes
 
----
-[![](https://visitcount.itsvg.in/api?id=gustavosp4591-lab&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4400?style=for-the-badge&logo=firefox&logoColor=white)](https://gustavosp4591-lab.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-----
 
+## 💻 Tech Stack
+
+**Front-End**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+**Back-End & Dados**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+-----
+
+## 🚀 Projetos em Destaque
+
+### 🎨 [Portfólio Pessoal](https://gustavosp4591-lab.github.io)
+
+Site pessoal construído com HTML, CSS, JavaScript e **GSAP**. Design editorial com dark background (#080808) e accent laranja (#FF4400), preloader multilíngue, marquee animado, hero com parallax, lista de projetos com preview flutuante e cursor customizado.  
+**Score Lighthouse:** 100 Desktop / 93 Mobile
+
+### 💰 Fintech — Java + Oracle
+
+Sistema de gestão financeira desenvolvido para a disciplina de Fintech na FIAP. Construído com **Java 17** e **Oracle Database**, implementando o padrão **DAO** com quatro entidades: `ContaBancaria`, `Receita`, `Despesa` e `Investimento`.
+
+-----
+
+## 📊 GitHub Stats
+
+![Gustavo’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavosp4591-lab&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosp4591-lab&layout=compact&theme=tokyonight&hide_border=true)
+
+-----
+
+## 🎯 O que estou estudando agora
+
+- Aprofundando **JavaScript moderno** (ES6+, async/await, fetch API)
+- Padrões de projeto em Java (DAO, MVC)
+- SQL e modelagem de dados com Oracle
+- Git workflow profissional (Conventional Commits, branching)
+
+-----
+
+> 💡 **Recrutador(a)?** Estou disponível para estágio em front-end. Dá uma olhada no meu [portfólio](https://gustavosp4591-lab.github.io) e vamos conversar!

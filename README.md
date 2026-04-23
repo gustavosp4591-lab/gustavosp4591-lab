@@ -44,7 +44,7 @@
 </td>
 <td width="40%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
+<img src="./about-me.png" width="100%" alt="about me" />
 
 </td>
 </tr>
@@ -58,13 +58,13 @@
   <a href="https://gustavosp4591-lab.github.io">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF5E3A?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
   </a>
-  <a href="https://linkedin.com/in/SEU-USUARIO">
+  <a href="https://www.linkedin.com/in/gustavo-da-cruz-carvalho-92279437b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:seu@email.com">
+  <a href="mailto:gustavo.sp4591@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://instagram.com/SEU-USUARIO">
+  <a href="https://www.instagram.com/gustavo_dacruz_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </p>
@@ -104,7 +104,7 @@
 
 <p align="center">
   <a href="https://gustavosp4591-lab.github.io">
-    <img src="./assets/portfolio-preview.png" width="100%" alt="Preview do portfólio" />
+    <img src="./portfolio-preview.jpeg" width="100%" alt="Preview do portfólio" />
   </a>
 </p>
 

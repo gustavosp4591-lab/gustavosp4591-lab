@@ -1,7 +1,7 @@
 <!-- BANNER SUPERIOR -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Gustavo%20da%20Cruz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=18" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5E3A,100:FF8A6B&height=220&section=header&text=Gustavo%20da%20Cruz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=18" alt="banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -100,19 +100,11 @@
 
 -----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavosp4591-lab&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
-</p>
-
------
-
 ## 🚀 Projeto em destaque
 
 <p align="center">
   <a href="https://gustavosp4591-lab.github.io">
-    <img src="https://image.thum.io/get/width/1200/https://gustavosp4591-lab.github.io" width="100%" alt="Preview do portfólio" />
+    <img src="./assets/portfolio-preview.png" width="100%" alt="Preview do portfólio" />
   </a>
 </p>
 
@@ -139,5 +131,5 @@ Site pessoal construído do zero com **HTML, CSS, JavaScript e GSAP**. Design ed
 <!-- BANNER INFERIOR -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A6B,100:FF5E3A&height=100&section=footer" alt="footer" />
 </p>

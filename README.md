@@ -1,63 +1,143 @@
-# 👨‍💻 Gustavo da Cruz Carvalho
+<!-- BANNER SUPERIOR -->
 
-**Desenvolvedor Front-End em formação** | Cursando Análise e Desenvolvimento de Sistemas na FIAP 🎓
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Gustavo%20da%20Cruz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=18" alt="banner" />
+</p>
 
-Estudante apaixonado por interfaces bem feitas, animações fluidas e design editorial. Atualmente focado em construir projetos reais enquanto busco minha primeira oportunidade como **estagiário front-end**.
+<!-- TYPING ANIMATION -->
 
-📍 São Paulo, Brasil  
-🔎 **Aberto a oportunidades de estágio**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=FF5E3A&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+%F0%9F%8E%A8;Estudante+de+ADS+na+FIAP+%F0%9F%8E%93;Buscando+meu+primeiro+est%C3%A1gio+%F0%9F%9A%80;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+GSAP" alt="typing" />
+  </a>
+</p>
+
+<!-- PROFILE VIEWS -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustavosp4591-lab&label=Profile%20views&color=FF5E3A&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/gustavosp4591-lab?label=Followers&style=flat&color=FF5E3A" alt="followers" />
+</p>
+
+-----
+
+## 👨‍💻 Sobre mim
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+🎯 **Foco atual:** front-end com atenção a detalhes visuais e animações fluidas
+
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**
+
+🔭 Construindo meu [portfólio pessoal](https://gustavosp4591-lab.github.io) com GSAP e design editorial
+
+🌱 Aprofundando em **JavaScript moderno** e fundamentos de **Java**
+
+💬 Me pergunta sobre: **animações web, GSAP, CSS avançado**
+
+⚡ Fun fact: inspiração vem tanto de dev quanto de design editorial
+
+📫 **Aberto a oportunidades de estágio front-end!**
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
+
+</td>
+</tr>
+</table>
 
 -----
 
 ## 🌐 Contato & Redes
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5E3A?style=for-the-badge&logo=firefox&logoColor=white)](https://gustavosp4591-lab.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO)
+<p align="center">
+  <a href="https://gustavosp4591-lab.github.io">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF5E3A?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:seu@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://instagram.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</p>
 
 -----
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-**Front-End**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+**Usando no dia a dia**
 
-**Ferramentas**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" alt="stack atual" />
+</p>
 
------
+**Estudando agora**
 
-## 🚀 Projetos em Destaque
-
-### 🎨 [Portfólio Pessoal](https://gustavosp4591-lab.github.io)
-
-Site pessoal construído com HTML, CSS, JavaScript e **GSAP**. Design editorial com paleta dark e accent salmão, preloader multilíngue, marquee animado, hero com parallax, lista de projetos com preview flutuante e cursor customizado.  
-**Score Lighthouse:** 100 Desktop / 93 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,python&theme=dark" alt="estudando" />
+</p>
 
 -----
 
 ## 📊 GitHub Stats
 
-![Gustavo’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavosp4591-lab&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gustavosp4591-lab&show_icons=true&theme=transparent&hide_border=true&title_color=FF5E3A&icon_color=FF5E3A&text_color=ffffff" alt="stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=gustavosp4591-lab&theme=transparent&hide_border=true&ring=FF5E3A&fire=FF5E3A&currStreakLabel=FF5E3A" alt="streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosp4591-lab&layout=compact&theme=tokyonight&hide_border=true)
-
------
-
-## 🎯 O que estou estudando agora
-
-- Aprofundando **JavaScript moderno** (ES6+, async/await, fetch API)
-- Padrões de projeto em Java (DAO, MVC)
-- SQL e modelagem de dados com Oracle
-- Git workflow profissional (Conventional Commits, branching)
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosp4591-lab&layout=compact&theme=transparent&hide_border=true&title_color=FF5E3A&text_color=ffffff" alt="top langs" />
+</p>
 
 -----
 
-> 💡 **Recrutador(a)?** Estou disponível para estágio em front-end. Dá uma olhada no meu [portfólio](https://gustavosp4591-lab.github.io) e vamos conversar!
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavosp4591-lab&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+</p>
+
+-----
+
+## 🚀 Projeto em destaque
+
+<p align="center">
+  <a href="https://gustavosp4591-lab.github.io">
+    <img src="https://image.thum.io/get/width/1200/https://gustavosp4591-lab.github.io" width="100%" alt="Preview do portfólio" />
+  </a>
+</p>
+
+### 🎨 [Portfólio Pessoal](https://gustavosp4591-lab.github.io)
+
+Site pessoal construído do zero com **HTML, CSS, JavaScript e GSAP**. Design editorial inspirado em Dennis Snellenberg, com preloader multilíngue, marquee animado, hero com parallax, lista de projetos com preview flutuante seguindo o cursor e cursor customizado.
+
+**🎯 Score Lighthouse:** 100 Desktop / 93 Mobile
+
+-----
+
+## 📈 Atividade recente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavosp4591-lab&theme=react-dark&bg_color=00000000&color=FF5E3A&line=FF5E3A&point=ffffff&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+-----
+
+<p align="center">
+  <i>💡 <b>Recrutador(a)?</b> Tô disponível pra estágio front-end. Dá uma olhada no meu <a href="https://gustavosp4591-lab.github.io">portfólio</a> e vamos conversar!</i>
+</p>
+
+<!-- BANNER INFERIOR -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="footer" />
+</p>

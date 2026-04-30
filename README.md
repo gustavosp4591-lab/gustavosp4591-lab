@@ -31,7 +31,7 @@
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**
 
-🔭 Construindo meu [portfólio pessoal](https://gustavosp4591-lab.github.io) com GSAP e design editorial
+🔭 Construindo meu [portfólio pessoal](https://gustavosp4591-lab.github.io/portfolio/) com GSAP e design editorial
 
 🌱 Aprofundando em **JavaScript moderno** e fundamentos de **Java**
 
@@ -55,7 +55,7 @@
 ## 🌐 Contato & Redes
 
 <p align="center">
-  <a href="https://gustavosp4591-lab.github.io">
+  <a href="https://gustavosp4591-lab.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF5E3A?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-da-cruz-carvalho-92279437b">
@@ -103,12 +103,12 @@
 ## 🚀 Projeto em destaque
 
 <p align="center">
-  <a href="https://gustavosp4591-lab.github.io">
+  <a href="https://gustavosp4591-lab.github.io/portfolio/">
     <img src="./portfolio-preview.jpeg" width="100%" alt="Preview do portfólio" />
   </a>
 </p>
 
-### 🎨 [Portfólio Pessoal](https://gustavosp4591-lab.github.io)
+### 🎨 [Portfólio Pessoal](https://gustavosp4591-lab.github.io/portfolio/)
 
 Site pessoal construído do zero com **HTML, CSS, JavaScript e GSAP**. Design editorial inspirado em Dennis Snellenberg, com preloader multilíngue, marquee animado, hero com parallax, lista de projetos com preview flutuante seguindo o cursor e cursor customizado.
 

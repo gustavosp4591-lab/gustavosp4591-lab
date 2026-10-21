@@ -1,135 +1,137 @@
-<!-- BANNER SUPERIOR -->
+<!-- 🌊 GIYU TOMIOKA | GITHUB PROFILE README -->
+<div align="center">
+<!-- BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=071B33&height=200&section=header&text=GUSTAVO%20%7C%20DATA%20BREATHING&fontSize=30&fontColor=58C7FF&animation=fadeIn&fontAlignY=38&desc=SQL%20%E2%80%A2%20DATABASES%20%E2%80%A2%20TECHNOLOGY&descSize=14&descAlignY=58" alt="Banner azul inspirado na Respiração da Água" />
+<!-- TÍTULO ANIMADO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58C7FF&center=true&vCenter=true&width=600&lines=SELECT+*+FROM+my_future%3B;Estudante+de+ADS;Explorando+SQL+e+Banco+de+Dados;Transformando+dados+em+conhecimento" alt="Apresentação animada" />
+<br/>
+<img src="https://img.shields.io/badge/水-Respiração%20da%20Água-087EAB?style=for-the-badge" alt="Respiração da Água" />
+<img src="https://img.shields.io/badge/FOCO-SQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" alt="Foco em SQL" />
+<img src="https://img.shields.io/badge/STATUS-EVOLUINDO-123D59?style=for-the-badge" alt="Em evolução" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5E3A,100:FF8A6B&height=220&section=header&text=Gustavo%20da%20Cruz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=18" alt="banner" />
-</p>
+⸻
 
-<!-- TYPING ANIMATION -->
+🌊 01. Sobre mim
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=FF5E3A&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End+%F0%9F%8E%A8;Estudante+de+ADS+na+FIAP+%F0%9F%8E%93;Buscando+meu+primeiro+est%C3%A1gio+%F0%9F%9A%80;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+GSAP" alt="typing" />
-  </a>
-</p>
+SELECT
+    nome,
+    curso,
+    interesses,
+    objetivo
+FROM desenvolvedor
+WHERE objetivo = 'evoluir';
 
-<!-- PROFILE VIEWS -->
+Olá! Eu sou o Gustavo, estudante de Análise e Desenvolvimento de Sistemas (ADS), interessado em Banco de Dados, SQL e tecnologia.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavosp4591-lab&label=Profile%20views&color=FF5E3A&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/gustavosp4591-lab?label=Followers&style=flat&color=FF5E3A" alt="followers" />
-</p>
+Estou construindo minha jornada na programação, aprendendo a organizar informações, criar consultas eficientes e entender como os dados são utilizados para resolver problemas reais.
 
------
+Assim como Giyu Tomioka, acredito que disciplina, consistência e evolução fazem a diferença.
 
-## 👨‍💻 Sobre mim
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+* 🗄️ Foco em SQL e Banco de Dados
+* 🐬 Explorando MySQL e PostgreSQL
+* 🧠 Aprendendo modelagem de dados e consultas
+* 🎯 Objetivo: conquistar uma oportunidade na área de Dados ou Banco de Dados
+* 🌱 Sempre desenvolvendo novos projetos e aprendendo na prática
 
-<table>
-<tr>
-<td width="60%" valign="top">
+⸻
 
-🎯 **Foco atual:** front-end com atenção a detalhes visuais e animações fluidas
+🗄️ 02. Tecnologias e habilidades
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**
+<div align="center">
 
-🔭 Construindo meu [portfólio pessoal](https://gustavosp4591-lab.github.io/portfolio/) com GSAP e design editorial
+Banco de Dados
 
-🌱 Aprofundando em **JavaScript moderno** e fundamentos de **Java**
+<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle&theme=dark" alt="Ícones de tecnologias de banco de dados" />
 
-💬 Me pergunta sobre: **animações web, GSAP, CSS avançado**
+Programação e ferramentas
 
-⚡ Fun fact: inspiração vem tanto de dev quanto de design editorial
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark" alt="Ícones de programação e ferramentas" />
+</div>
 
-📫 **Aberto a oportunidades de estágio front-end!**
+Em minha jornada com SQL:
 
-</td>
-<td width="40%" valign="top">
+* SELECT, WHERE, ORDER BY e DISTINCT
+* Funções de agregação e GROUP BY
+* Relacionamentos e JOIN
+* Subconsultas e consultas aninhadas
+* Modelagem relacional, chaves primárias e estrangeiras
+* INSERT, UPDATE, DELETE e operações CRUD
 
-<img src="./about-me.png" width="100%" alt="about me" />
+Edite esta lista conforme os conteúdos que você já domina e os que ainda está estudando.
 
-</td>
-</tr>
-</table>
+⸻
 
------
+⚔️ 03. Projetos em destaque
 
-## 🌐 Contato & Redes
+<div align="center">
+<a href="https://github.com/SEU-USUARIO/estudos-sql">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=estudos-sql&theme=tokyonight&hide_border=true" alt="Projeto de estudos SQL" />
+</a>
+<a href="https://github.com/SEU-USUARIO/projeto-banco-de-dados">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=projeto-banco-de-dados&theme=tokyonight&hide_border=true" alt="Projeto de banco de dados" />
+</a>
+</div>
 
-<p align="center">
-  <a href="https://gustavosp4591-lab.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF5E3A?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-da-cruz-carvalho-92279437b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:gustavo.sp4591@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://www.instagram.com/gustavo_dacruz_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-</p>
+🌊 Projeto 01 — Jornada SQL
 
------
+Repositório para documentar minha evolução em SQL, com consultas, exercícios e exemplos práticos.
 
-## 🛠️ Tech Stack
+Ideias para desenvolver:
 
-**Usando no dia a dia**
+* Consultas básicas e filtros
+* Agrupamentos e funções de agregação
+* JOINs entre tabelas
+* Subconsultas e desafios
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" alt="stack atual" />
-</p>
+🗃️ Projeto 02 — Sistema de Banco de Dados
 
-**Estudando agora**
+Projeto para praticar modelagem relacional, relacionamentos, criação de tabelas e consultas para extrair informações.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,python&theme=dark" alt="estudando" />
-</p>
+Ideias para desenvolver:
 
------
+* Diagrama entidade-relacionamento
+* Criação de tabelas e restrições
+* Consultas SQL para situações reais
+* Documentação do banco de dados
 
-## 📊 GitHub Stats
+Os projetos acima são sugestões para você construir. Os cartões só aparecerão corretamente depois que você criar os repositórios com esses nomes ou atualizar os links para repositórios existentes.
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gustavosp4591-lab&show_icons=true&theme=transparent&hide_border=true&title_color=FF5E3A&icon_color=FF5E3A&text_color=ffffff" alt="stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=gustavosp4591-lab&theme=transparent&hide_border=true&ring=FF5E3A&fire=FF5E3A&currStreakLabel=FF5E3A" alt="streak" />
-</p>
+⸻
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosp4591-lab&layout=compact&theme=transparent&hide_border=true&title_color=FF5E3A&text_color=ffffff" alt="top langs" />
-</p>
+📊 04. Estatísticas do GitHub
 
------
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+<img width="95%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+</div>
 
-## 🚀 Projeto em destaque
+⸻
 
-<p align="center">
-  <a href="https://gustavosp4591-lab.github.io/portfolio/">
-    <img src="./portfolio-preview.jpeg" width="100%" alt="Preview do portfólio" />
-  </a>
-</p>
+🎯 05. Objetivos
 
-### 🎨 [Portfólio Pessoal](https://gustavosp4591-lab.github.io/portfolio/)
+* [ ]	Aprofundar meus conhecimentos em SQL
+* [ ]	Desenvolver projetos com bancos de dados relacionais
+* [ ]	Praticar modelagem de dados
+* [ ]	Aprender consultas avançadas e otimização
+* [ ]	Criar um portfólio consistente
+* [ ]	Me preparar para uma oportunidade de estágio em tecnologia ou dados
 
-Site pessoal construído do zero com **HTML, CSS, JavaScript e GSAP**. Design editorial inspirado em Dennis Snellenberg, com preloader multilíngue, marquee animado, hero com parallax, lista de projetos com preview flutuante seguindo o cursor e cursor customizado.
+⸻
 
-**🎯 Score Lighthouse:** 100 Desktop / 93 Mobile
+🌊 Filosofia do Hashira da Água
 
------
+<div align="center">
 
-## 📈 Atividade recente
+“A evolução acontece quando você continua treinando, mesmo quando o caminho parece difícil.”
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavosp4591-lab&theme=react-dark&bg_color=00000000&color=FF5E3A&line=FF5E3A&point=ffffff&hide_border=true&area=true" alt="activity graph" />
-</p>
+Um passo de cada vez. Uma consulta de cada vez.
 
------
+SELECT conhecimento FROM jornada WHERE dedicação = TRUE;
 
-<p align="center">
-  <i>💡 <b>Recrutador(a)?</b> Tô disponível pra estágio front-end. Dá uma olhada no meu <a href="https://gustavosp4591-lab.github.io">portfólio</a> e vamos conversar!</i>
-</p>
-
-<!-- BANNER INFERIOR -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A6B,100:FF5E3A&height=100&section=footer" alt="footer" />
-</p>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=071B33&height=110&section=footer" width="100%" alt="Rodapé azul com ondas" />
+</div>
+<!-- FIM DO README -->

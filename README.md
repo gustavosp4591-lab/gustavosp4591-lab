@@ -1,137 +1,106 @@
-<!-- 🌊 GIYU TOMIOKA | GITHUB PROFILE README -->
-<div align="center">
-<!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=071B33&height=200&section=header&text=GUSTAVO%20%7C%20DATA%20BREATHING&fontSize=30&fontColor=58C7FF&animation=fadeIn&fontAlignY=38&desc=SQL%20%E2%80%A2%20DATABASES%20%E2%80%A2%20TECHNOLOGY&descSize=14&descAlignY=58" alt="Banner azul inspirado na Respiração da Água" />
-<!-- TÍTULO ANIMADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58C7FF&center=true&vCenter=true&width=600&lines=SELECT+*+FROM+my_future%3B;Estudante+de+ADS;Explorando+SQL+e+Banco+de+Dados;Transformando+dados+em+conhecimento" alt="Apresentação animada" />
-<br/>
-<img src="https://img.shields.io/badge/水-Respiração%20da%20Água-087EAB?style=for-the-badge" alt="Respiração da Água" />
-<img src="https://img.shields.io/badge/FOCO-SQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" alt="Foco em SQL" />
-<img src="https://img.shields.io/badge/STATUS-EVOLUINDO-123D59?style=for-the-badge" alt="Em evolução" />
-</div>
+<!-- ============ BANNER + FAIXA DO HAORI ============ -->
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="ADS FIAP - Gustavo da Cruz - Dados, Python e Front-end">
+</p>
+<p align="center">
+  <img src="assets/faixa-haori.svg" width="100%" alt="">
+</p>
 
-⸻
+<!-- ============ STATUS (texto de verdade, lido por busca) ============ -->
+<h3 align="center">🟢 Aberto a estágio em Dados e Front-end</h3>
 
-🌊 01. Sobre mim
+<!-- ============ GIF DO GIYU ============ -->
+<p align="center">
+  <img src="assets/giyu.gif" width="70%" alt="Giyu Tomioka">
+</p>
+<p align="center"><sub>Calma na postura. Força nos estudos. Constância pra próxima missão.</sub></p>
 
-SELECT
-    nome,
-    curso,
-    interesses,
-    objetivo
-FROM desenvolvedor
-WHERE objetivo = 'evoluir';
+<!-- ============ BOTÕES ============ -->
+<p align="center">
+  <a href="SEU_LINK_DO_PORTFOLIO"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-185FA5?style=for-the-badge" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/gustavo-dacruz-92279437b"><img src="https://img.shields.io/badge/LINKEDIN-B9770E?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:gustavo.sp4591@gmail.com"><img src="https://img.shields.io/badge/EMAIL-2F7D4F?style=for-the-badge" alt="E-mail"></a>
+  <!-- Quando o currículo estiver pronto: troque a linha abaixo pela versão com link (veja o comentário no fim do arquivo) -->
+  <img src="https://img.shields.io/badge/CURR%C3%8DCULO-EM_BREVE-555555?style=for-the-badge" alt="Currículo em breve">
+</p>
 
-Olá! Eu sou o Gustavo, estudante de Análise e Desenvolvimento de Sistemas (ADS), interessado em Banco de Dados, SQL e tecnologia.
+<br>
 
-Estou construindo minha jornada na programação, aprendendo a organizar informações, criar consultas eficientes e entender como os dados são utilizados para resolver problemas reais.
+<!-- ============ 01 ============ -->
+<img src="assets/secao-01.svg" width="100%" alt="01 Por trás da água">
 
-Assim como Giyu Tomioka, acredito que disciplina, consistência e evolução fazem a diferença.
+Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, buscando o primeiro estágio em **Dados** ou **Front-end**. Aqui eu registro minha evolução, um projeto por vez.
 
-* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-* 🗄️ Foco em SQL e Banco de Dados
-* 🐬 Explorando MySQL e PostgreSQL
-* 🧠 Aprendendo modelagem de dados e consultas
-* 🎯 Objetivo: conquistar uma oportunidade na área de Dados ou Banco de Dados
-* 🌱 Sempre desenvolvendo novos projetos e aprendendo na prática
+<br>
 
-⸻
+<!-- ============ 02 ============ -->
+<img src="assets/secao-02.svg" width="100%" alt="02 Arsenal de técnicas">
 
-🗄️ 02. Tecnologias e habilidades
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-185FA5?style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/PYTHON-0C447C?style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-993C1D?style=for-the-badge" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-185FA5?style=for-the-badge" alt="CSS3">
+  <img src="https://img.shields.io/badge/GIT-712B13?style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB-2F7D4F?style=for-the-badge" alt="GitHub">
+</p>
 
-<div align="center">
+<br>
 
-Banco de Dados
+<!-- ============ 03 ============ -->
+<img src="assets/secao-03.svg" width="100%" alt="03 Trilha das formas">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle&theme=dark" alt="Ícones de tecnologias de banco de dados" />
+| Nível | O que estou estudando |
+|---|---|
+| **Dominando** | HTML, CSS, Python |
+| **Treinando** | SQL, PL/SQL, Java (FIAP) |
+| **Próxima forma** | _escreva aqui o que você vai aprender depois_ |
 
-Programação e ferramentas
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark" alt="Ícones de programação e ferramentas" />
-</div>
+<!-- ============ 04 ============ -->
+<img src="assets/secao-04.svg" width="100%" alt="04 Missões selecionadas">
 
-Em minha jornada com SQL:
+| Projeto | O que você vai encontrar |
+|---|---|
+| [**Meu portfólio**](SEU_LINK_DO_PORTFOLIO) | _escreva aqui uma frase sobre o seu portfólio_ |
 
-* SELECT, WHERE, ORDER BY e DISTINCT
-* Funções de agregação e GROUP BY
-* Relacionamentos e JOIN
-* Subconsultas e consultas aninhadas
-* Modelagem relacional, chaves primárias e estrangeiras
-* INSERT, UPDATE, DELETE e operações CRUD
+<sub>Novas missões entram aqui conforme eu concluir.</sub>
 
-Edite esta lista conforme os conteúdos que você já domina e os que ainda está estudando.
+<br>
 
-⸻
+<!-- ============ 05 ============ -->
+<img src="assets/secao-05.svg" width="100%" alt="05 Estatísticas do GitHub">
 
-⚔️ 03. Projetos em destaque
+<p align="center">
+  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=gustavosp4591-lab&show_icons=true&hide_border=false&bg_color=0A1628&title_color=378ADD&text_color=B5D4F4&icon_color=E8A93A&border_color=185FA5">
+  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosp4591-lab&layout=compact&bg_color=0A1628&title_color=378ADD&text_color=B5D4F4&border_color=185FA5">
+</p>
 
-<div align="center">
-<a href="https://github.com/SEU-USUARIO/estudos-sql">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=estudos-sql&theme=tokyonight&hide_border=true" alt="Projeto de estudos SQL" />
-</a>
-<a href="https://github.com/SEU-USUARIO/projeto-banco-de-dados">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=projeto-banco-de-dados&theme=tokyonight&hide_border=true" alt="Projeto de banco de dados" />
-</a>
-</div>
+<br>
 
-🌊 Projeto 01 — Jornada SQL
+<!-- ============ RODAPÉ ============ -->
+<p align="center">
+  <img src="assets/rodape.png" width="100%" alt="Disciplina hoje, liberdade amanhã.">
+</p>
+<p align="center">
+  <img src="assets/faixa-haori.svg" width="100%" alt="">
+</p>
 
-Repositório para documentar minha evolução em SQL, com consultas, exercícios e exemplos práticos.
+<!-- ============ CRÉDITOS VISUAIS ============ -->
+<details>
+<summary>🎨 Créditos visuais</summary>
 
-Ideias para desenvolver:
+- Banner e rodapé: imagens geradas com **[escreva a ferramenta de IA que você usou]**.
+- GIF: **[escreva a fonte do GIF]**.
+- Giyu Tomioka é personagem de *Demon Slayer*, de Koyoharu Gotouge. Projeto de fã, sem fins comerciais.
 
-* Consultas básicas e filtros
-* Agrupamentos e funções de agregação
-* JOINs entre tabelas
-* Subconsultas e desafios
+</details>
 
-🗃️ Projeto 02 — Sistema de Banco de Dados
-
-Projeto para praticar modelagem relacional, relacionamentos, criação de tabelas e consultas para extrair informações.
-
-Ideias para desenvolver:
-
-* Diagrama entidade-relacionamento
-* Criação de tabelas e restrições
-* Consultas SQL para situações reais
-* Documentação do banco de dados
-
-Os projetos acima são sugestões para você construir. Os cartões só aparecerão corretamente depois que você criar os repositórios com esses nomes ou atualizar os links para repositórios existentes.
-
-⸻
-
-📊 04. Estatísticas do GitHub
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-<img width="95%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</div>
-
-⸻
-
-🎯 05. Objetivos
-
-* [ ]	Aprofundar meus conhecimentos em SQL
-* [ ]	Desenvolver projetos com bancos de dados relacionais
-* [ ]	Praticar modelagem de dados
-* [ ]	Aprender consultas avançadas e otimização
-* [ ]	Criar um portfólio consistente
-* [ ]	Me preparar para uma oportunidade de estágio em tecnologia ou dados
-
-⸻
-
-🌊 Filosofia do Hashira da Água
-
-<div align="center">
-
-“A evolução acontece quando você continua treinando, mesmo quando o caminho parece difícil.”
-
-Um passo de cada vez. Uma consulta de cada vez.
-
-SELECT conhecimento FROM jornada WHERE dedicação = TRUE;
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=071B33&height=110&section=footer" width="100%" alt="Rodapé azul com ondas" />
-</div>
-<!-- FIM DO README -->
+<!--
+BOTÃO DO CURRÍCULO (para usar quando o PDF estiver pronto):
+1. Suba o PDF na pasta assets (ex.: assets/curriculo-gustavo.pdf)
+2. Apague a linha <img ... CURRÍCULO EM_BREVE ...> lá em cima
+3. No lugar, coloque:
+   <a href="assets/curriculo-gustavo.pdf"><img src="https://img.shields.io/badge/CURR%C3%8DCULO-PDF-378ADD?style=for-the-badge" alt="Currículo em PDF"></a>
+-->

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 36" width="2172" height="36" role="img" aria-label="Faixa inspirada no haori do Giyu">
+  <title>Faixa do haori</title>
+  <defs>
+    <pattern id="xadrez" width="36" height="36" patternUnits="userSpaceOnUse">
+      <rect width="36" height="36" fill="#2F7D4F"/>
+      <rect width="18" height="18" fill="#E8A93A"/>
+      <rect x="18" y="18" width="18" height="18" fill="#E8A93A"/>
+    </pattern>
+  </defs>
+  <rect width="1086" height="36" fill="#6B1F2E"/>
+  <rect x="1086" width="1086" height="36" fill="url(#xadrez)"/>
+</svg>

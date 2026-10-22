@@ -84,10 +84,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, buscando o prim
   <img src="assets/faixa-haori.svg" width="100%" alt="">
 </p>
 
-<!-- ============ CRÉDITOS VISUAIS ============ -->
-<details>
-<summary>🎨 Créditos visuais</summary>
-
 - Banner e rodapé: imagens geradas com **[escreva a ferramenta de IA que você usou]**.
 - GIF: **[escreva a fonte do GIF]**.
 - Giyu Tomioka é personagem de *Demon Slayer*, de Koyoharu Gotouge. Projeto de fã, sem fins comerciais.

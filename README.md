@@ -15,7 +15,7 @@
 
 <!-- ============ BOTÕES ============ -->
 <p align="center">
-  <a href="SEU_LINK_DO_PORTFOLIO"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-1877F2?style=for-the-badge" alt="Portfólio"></a>
+  <a href=https://gustavosp4591-lab.github.io/portfolio/><img src="https://img.shields.io/badge/PORTF%C3%93LIO-1877F2?style=for-the-badge" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/gustavo-dacruz-92279437b"><img src="https://img.shields.io/badge/LINKEDIN-C98A00?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:gustavo.sp4591@gmail.com"><img src="https://img.shields.io/badge/EMAIL-14A85C?style=for-the-badge" alt="E-mail"></a>
   <!-- Quando o currículo estiver pronto: veja o comentário no fim do arquivo -->
@@ -76,7 +76,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (modalidade 
 
 <table width="100%">
   <tr><th align="left" width="30%">Projeto</th><th align="left">O que você vai encontrar</th></tr>
-  <tr><td><a href="SEU_LINK_DO_PORTFOLIO"><b>Meu portfólio</b></a></td><td>Meu site pessoal, com apresentação profissional, projetos e identidade visual própria.</td></tr>
+  <tr><td><a href=https://gustavosp4591-lab.github.io/portfolio/><b>Meu portfólio</b></a></td><td>Meu site pessoal, com apresentação profissional, projetos e identidade visual própria.</td></tr>
 </table>
 
 <sub>Em desenvolvimento: novos projetos de Dados e Front-end, adicionados aqui assim que forem concluídos.</sub>
@@ -112,8 +112,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (modalidade 
   <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=gustavosp4591-lab&show_icons=true&bg_color=0A1220&title_color=00AFFF&text_color=BFE9FF&icon_color=FFB21E&border_color=14508F">
   <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosp4591-lab&layout=compact&bg_color=0A1220&title_color=00AFFF&text_color=BFE9FF&border_color=14508F">
 </p>
-
-<p align="center">Cada contribuição, um passo para a próxima fase. Meu histórico em modo Galaga. 🚀</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavosp4591-lab/gustavosp4591-lab/output/galaga-contribution-graph-dark.svg">
@@ -152,9 +150,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (modalidade 
   <img src="assets/rodape-minimal.svg" width="100%" alt="Disciplina hoje, liberdade amanhã.">
 </p>
 
-<!-- ============ CRÉDITOS VISUAIS ============ -->
-<details>
-<summary>🎨 Créditos visuais</summary>
 
 - GIF do Giyu: **[escreva a fonte do GIF]**.
 - Ilustrações e ícones de onda: **[escreva a ferramenta ou a fonte que você usou]**.

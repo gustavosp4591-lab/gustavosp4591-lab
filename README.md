@@ -141,7 +141,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (modalidade 
 <p align="center">
   <b>Vamos conversar?</b> Estou aberto a estágio em Dados e Front-end.<br>
   <a href="https://www.linkedin.com/in/gustavo-dacruz-92279437b">LinkedIn</a> ·
-  <a href="SEU_LINK_DO_PORTFOLIO">Portfólio</a> ·
+  <a href=https://gustavosp4591-lab.github.io/portfolio/>Portfólio</a> ·
   <a href="mailto:gustavo.sp4591@gmail.com">E-mail</a>
 </p>
 

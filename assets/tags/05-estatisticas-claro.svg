@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
+<defs>
+ <linearGradient id="g"><stop stop-color="#0A9BE8"/><stop offset="1" stop-color="#1160D6"/></linearGradient>
+ <linearGradient id="l"><stop stop-color="#00AFFF"/><stop offset="1" stop-color="#087BC1" stop-opacity="0"/></linearGradient>
+</defs>
+<text x="18" y="55" font-family="Arial,sans-serif" font-size="42" font-weight="800" fill="url(#g)">05</text>
+<rect x="18" y="72" width="48" height="3" rx="2" fill="#00AFFF"/>
+<text x="88" y="54" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#0B1B33">ESTATÍSTICAS</text>
+<path d="M88 73H850" stroke="url(#l)" stroke-width="2"/>
+<g transform="translate(690 15)">
+ <path d="M0 49C22 48 31 39 43 29C55 18 69 12 83 13C73 18 68 25 71 31C78 23 89 19 101 21C92 25 88 31 90 37C99 31 110 30 120 34C111 37 107 41 108 45C121 43 133 45 145 50C121 48 104 55 84 55C62 55 45 49 29 50C18 51 9 52 0 49Z" fill="url(#g)"/>
+ <path d="M8 49C28 47 38 37 49 27C58 20 66 18 75 18C65 24 61 32 64 39C54 35 49 36 43 41C35 48 24 50 8 49Z" fill="#D8F6FF"/>
+ <path d="M45 44C58 36 68 35 80 40C90 44 99 45 113 43C103 50 92 53 78 52C65 51 56 46 45 44Z" fill="#006BB6"/>
+ <circle cx="92" cy="14" r="3" fill="#C9F3FF"/><circle cx="106" cy="23" r="2" fill="#86DFFF"/>
+</g>
+</svg>

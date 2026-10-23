@@ -47,7 +47,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (modalidade 
   <tr><th align="left" width="30%">Procuro</th><td>Estágio em <b>Dados</b> (SQL e Python) ou em <b>Front-end</b> (HTML e CSS)</td></tr>
   <tr><th align="left">Formação</th><td>Análise e Desenvolvimento de Sistemas · FIAP</td></tr>
   <tr><th align="left">Localização</th><td>São Paulo, SP</td></tr>
-  <tr><th align="left">Disponibilidade</th><td><i>escreva aqui (presencial, híbrido ou remoto, e horário)</i></td></tr>
+  <tr><th align="left">Disponibilidade</th><td><i>Hibrido</i></td></tr>
 </table>
 
 <br>
@@ -95,7 +95,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (modalidade 
   <tr><th align="left" width="22%">Nível</th><th align="left" width="34%">Tecnologias</th><th align="left">Como estou praticando</th></tr>
   <tr><td><b>Dominando</b></td><td>HTML, CSS, Python</td><td>Base sólida, que uso nos meus estudos e no meu portfólio.</td></tr>
   <tr><td><b>Treinando</b></td><td>SQL, PL/SQL, Java</td><td>Em prática nas disciplinas de banco de dados e programação da FIAP.</td></tr>
-  <tr><td><b>Próxima forma</b></td><td><i>escreva aqui</i></td><td><i>escreva aqui como você pretende aprender</i></td></tr>
+  <tr><td><b>Próxima forma</b></td><td><i>...</i></td></tr>
 </table>
 
 <br>

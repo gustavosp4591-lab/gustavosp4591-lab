@@ -132,7 +132,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (modalidade 
 <table width="100%">
   <tr><th align="left" width="30%">Formação</th><td><b>Análise e Desenvolvimento de Sistemas</b> · FIAP · em andamento, previsão de conclusão em 2027</td></tr>
   <tr><th align="left">Estudando agora</th><td>SQL e PL/SQL (banco de dados) · Java · aprofundando HTML, CSS e Python</td></tr>
-  <tr><th align="left">Próximos passos</th><td><i>escreva aqui (por exemplo: concluir o primeiro projeto de Dados e publicá-lo aqui)</i></td></tr>
+  <tr><th align="left">Próximos passos</th><td><i>... </i></td></tr>
 </table>
 
 <br>

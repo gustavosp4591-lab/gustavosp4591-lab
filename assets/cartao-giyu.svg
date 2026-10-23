@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 420" width="330" height="420" role="img" aria-label="Cartão do Giyu: Respiração da Água, kanji de água, Dados">
+  <title>Respiração da Água · Dados</title>
+  <defs>
+    <clipPath id="cantos"><rect width="330" height="420" rx="16"/></clipPath>
+    <pattern id="xadrez" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#14A85C"/>
+      <rect width="12" height="12" fill="#FFB21E"/>
+      <rect x="12" y="12" width="12" height="12" fill="#FFB21E"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#cantos)">
+    <rect width="330" height="420" fill="#0A1220"/>
+    <rect x="16" y="16" width="298" height="388" fill="none" stroke="#1877F2" stroke-opacity="0.55" stroke-width="1.5"/>
+    <text x="165" y="58" text-anchor="middle" font-family="'Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4" fill="#7FD3FF">RESPIRAÇÃO DA ÁGUA</text>
+    <path d="M79.88 143.24V166.23000000000002H121.3C112.75 199.48 96.03 225.89 73.8 240.71C79.5 244.13 88.81 253.25 92.8 258.76C119.97 238.81 140.68 200.05 149.42000000000002 147.99L133.84 142.29L129.66 143.24ZM229.79 126.33000000000001C220.1 140.01 204.9 156.16 191.41 168.7C185.9 156.73000000000002 181.34 143.81 177.92000000000002 130.51V96.69H153.6V245.46C153.6 248.88 152.26999999999998 250.21 148.47 250.21C144.48000000000002 250.21 132.51 250.4 119.97 249.83C123.58 256.48 127.95 268.07 128.9 275.1C146.19 275.1 158.73000000000002 274.34 166.9 270.16C174.88 266.17 177.92000000000002 259.33 177.92000000000002 245.46V189.41C191.79000000000002 220.57 210.98 245.65 238.53 261.23C242.52 254.39 250.5 244.7 256.2 240.14C232.83 228.93 214.59 210.5 201.1 187.7C216.49 175.73000000000002 235.68 157.68 251.26 141.34Z" fill="#F5F9FC"/>
+    <rect y="288" width="330" height="58" fill="#FFB21E"/>
+    <text x="165" y="327" text-anchor="middle" font-family="'Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="10" fill="#3A2400">DADOS</text>
+    <text x="165" y="382" text-anchor="middle" font-family="'Arial, Helvetica, sans-serif" font-size="26" fill="#7FD3FF">∞</text>
+    <rect y="408" width="165" height="12" fill="#B0132E"/>
+    <rect x="165" y="408" width="165" height="12" fill="url(#xadrez)"/>
+  </g>
+</svg>

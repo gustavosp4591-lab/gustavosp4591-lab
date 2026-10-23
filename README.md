@@ -151,11 +151,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (modalidade 
 </p>
 
 
-- GIF do Giyu: **[escreva a fonte do GIF]**.
-- Ilustrações e ícones de onda: **[escreva a ferramenta ou a fonte que você usou]**.
-- Ícones de tecnologia: [Devicon](https://devicon.dev/). Badges: [Shields.io](https://shields.io/). Jogo animado: [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph).
-- O tema é inspirado no Giyu Tomioka, personagem de *Demon Slayer*, de Koyoharu Gotouge. Projeto de fã, sem fins comerciais.
-
 </details>
 
 <!--

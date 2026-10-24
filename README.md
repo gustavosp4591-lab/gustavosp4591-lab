@@ -34,12 +34,21 @@
 
 <img align="right" src="assets/cartao-giyu.svg" width="165" alt="Cartão: Respiração da Água, kanji 水, Dados" />
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (modalidade EAD, com previsão de conclusão em 2027) e busco meu **primeiro estágio** nas áreas de **Dados** e **Front-end**. Gosto de transformar problemas reais em soluções organizadas e bem apresentadas, e uso o GitHub para documentar minha evolução, um projeto de cada vez.
+Olá! Sou o Gustavo 👋
 
-- 📊 **Dados:** estudo **SQL** e programação de banco de dados (**PL/SQL**) na faculdade, com foco em consultas e na organização das informações.
-- 🐍 **Python:** tenho base sólida na linguagem e quero aplicá-la em análise de dados.
-- 🎨 **Front-end:** construo páginas e interfaces com **HTML e CSS**, cuidando de layout e identidade visual.
-- 🎯 **Objetivo:** aplicar o que aprendo em um time real, com acompanhamento, e crescer na área.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
+
+💻 Estou desenvolvendo minhas habilidades em SQL, Python e bancos de dados relacionais, com foco em consultas, análise e organização de dados.
+
+📊 Atualmente, estudo modelagem de dados, consultas SQL e programação com Python por meio de exercícios e projetos práticos.
+
+🚀 Meu objetivo é conquistar uma oportunidade de estágio em Dados ou Banco de Dados, contribuir com uma equipe e continuar evoluindo como desenvolvedor.
+
+Tecnologias em estudo: SQL, Python e PL/SQL.
+
+Também tenho experiência acadêmica com: HTML, CSS e construção de interfaces.
+
+📌 Confira meus projetos abaixo e acompanhe minha evolução.
 
 <br clear="both" />
 

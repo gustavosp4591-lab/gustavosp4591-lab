@@ -180,8 +180,7 @@ Construo páginas e interfaces, e uso essas habilidades no meu portfólio.
 </p>
 
 <!-- ============ CRÉDITOS ============ -->
-<details>
-<summary>🎨 Créditos visuais</summary>
+
 
 - Arte do Giyu e GIF: **[escreva a ferramenta de IA e a fonte do GIF]**.
 - Ícones de tecnologia: [Devicon](https://devicon.dev/). Badges: [Shields.io](https://shields.io/). Jogo animado: [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph).

@@ -161,7 +161,7 @@ Construo páginas e interfaces, e uso essas habilidades no meu portfólio.
 
 <table width="100%">
   <tr><th align="left" width="46%">Certificado</th><th align="left" width="34%">Instituição</th><th align="left">Ano</th></tr>
-  <tr><td><i>escreva aqui o nome do certificado</i></td><td><i>escreva aqui</i></td><td><i>----</i></td></tr>
+  <tr><td><i>.........</i></td><td><i>........</i></td><td><i>----</i></td></tr>
 </table>
 
 <br>

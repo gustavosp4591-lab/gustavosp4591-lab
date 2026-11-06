@@ -181,13 +181,6 @@ Construo páginas e interfaces, e uso essas habilidades no meu portfólio.
 
 <!-- ============ CRÉDITOS ============ -->
 
-
-- Arte do Giyu e GIF: **[escreva a ferramenta de IA e a fonte do GIF]**.
-- Ícones de tecnologia: [Devicon](https://devicon.dev/). Badges: [Shields.io](https://shields.io/). Jogo animado: [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph).
-- O tema é inspirado no Giyu Tomioka, personagem de *Demon Slayer*, de Koyoharu Gotouge. Projeto de fã, sem fins comerciais.
-
-</details>
-
 <!--
 BOTÃO DO CURRÍCULO (quando o PDF estiver pronto):
 1. Suba o PDF na pasta assets (ex.: assets/curriculo-gustavo.pdf)

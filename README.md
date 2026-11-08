@@ -161,7 +161,7 @@ Construo páginas e interfaces, e uso essas habilidades no meu portfólio.
 
 <table width="100%">
   <tr><th align="left" width="46%">Certificado</th><th align="left" width="34%">Instituição</th><th align="left">Ano</th></tr>
-  <tr><td><i>escreva aqui o nome do certificado</i></td><td><i>escreva aqui</i></td><td><i>----</i></td></tr>
+  <tr><td><i></i></td><td><i></i></td><td><i>----</i></td></tr>
 </table>
 
 <br>
@@ -180,14 +180,6 @@ Construo páginas e interfaces, e uso essas habilidades no meu portfólio.
 </p>
 
 <!-- ============ CRÉDITOS ============ -->
-<details>
-<summary>🎨 Créditos visuais</summary>
-
-- Arte do Giyu e GIF: **[escreva a ferramenta de IA e a fonte do GIF]**.
-- Ícones de tecnologia: [Devicon](https://devicon.dev/). Badges: [Shields.io](https://shields.io/). Animação das contribuições (Giyu em pixel art): criada para este perfil.
-- O tema é inspirado no Giyu Tomioka, personagem de *Demon Slayer*, de Koyoharu Gotouge. Projeto de fã, sem fins comerciais.
-
-</details>
 
 <!--
 BOTÃO DO CURRÍCULO (quando o PDF estiver pronto):
